@@ -19,6 +19,24 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Robust background job processing](https://laravel.com/docs/queues).
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
+## Installation
+
+Just clone the project to anywhere in your computer. 
+
+Rename .env.example to .env
+composer install
+php artisan key:generate
+php artisan migrate --seed
+
+php artisan serve
+
+Now you are done.
+
+If the design is broken,
+run npm install && npm run dev
+
+php artisan serve and open the project on the browser.
+
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
