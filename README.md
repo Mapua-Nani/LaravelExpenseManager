@@ -24,8 +24,11 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Just clone the project to anywhere in your computer. 
 
 Rename .env.example to .env
+
 composer install
+
 php artisan key:generate
+
 php artisan migrate --seed
 
 php artisan serve
