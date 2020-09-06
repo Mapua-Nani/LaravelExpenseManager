@@ -36,9 +36,10 @@ php artisan serve
 Now you are done.
 
 If the design is broken,
+
 run npm install && npm run dev
 
-php artisan serve and open the project on the browser.
+
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
