@@ -40,6 +40,10 @@ If the design is broken,
 run npm install && npm run dev
 
 
+Admin Username: admin@admin.com
+
+Admin Password: password
+
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
